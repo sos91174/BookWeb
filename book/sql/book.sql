@@ -51,44 +51,7 @@ values(null , '韓國自由行' , '周星星' , 9.9, 12 , 53 , 'static/img/book.
 insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
 values(null , '俄羅斯咖啡廳' , '蔡倫' , 66.5, 125 , 535 , 'static/img/book.jpg');
 
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'Java编程思想' , '阳哥' , 99.5 , 47 , 36 , 'static/img/default.jpg');
 
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'JavaScript从入门到精通' , '婷姐' , 9.9 , 85 , 95 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'cocos2d-x游戏编程入门' , '国哥' , 49, 52 , 62 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'C语言程序设计' , '谭浩强' , 28 , 52 , 74 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'Lua语言程序设计' , '雷丰阳' , 51.5 , 48 , 82 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , '西游记' , '罗贯中' , 12, 19 , 9999 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , '水浒传' , '华仔' , 33.05 , 22 , 88 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , '操作系统原理' , '刘优' , 133.05 , 122 , 188 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , '数据结构 java版' , '封大神' , 173.15 , 21 , 81 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'UNIX高级环境编程' , '乐天' , 99.15 , 210 , 810 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-#values(null , 'javaScript高级编程' , '国哥' , 69.15 , 210 , 810 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-    #values(null , '大话设计模式' , '国哥' , 89.15 , 20 , 10 , 'static/img/default.jpg');
-
-#insert into t_book(`id` , `name` , `author` , `price` , `sales` , `stock` , `img_path`)
-    #values(null , '人月神话' , '刚哥' , 88.15 , 20 , 80 , 'static/img/default.jpg');
 
 
 ## 查看表内容
